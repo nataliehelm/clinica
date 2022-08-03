@@ -1,0 +1,410 @@
+[2022-06-1521:58:52] [ INFO ] [OdontologoDaoH2:24] Guardando nuevo odontólogo Odontologo{id=null, matricula=35, nombre='Ana', apellido='Diaz'}
+[2022-06-1521:58:52] [ INFO ] [OdontologoDaoH2:31] Conexión establecida
+[2022-06-1522:00:49] [ INFO ] [OdontologoDaoH2:24] Guardando nuevo odontólogo Odontologo{id=null, matricula=35, nombre='Ana', apellido='Diaz'}
+[2022-06-1522:00:49] [ INFO ] [OdontologoDaoH2:31] Conexión establecida
+[2022-06-1522:02:55] [ INFO ] [OdontologoDaoH2:24] Guardando nuevo odontólogo Odontologo{id=null, matricula=35, nombre='Ana', apellido='Diaz'}
+[2022-06-1522:02:55] [ INFO ] [OdontologoDaoH2:31] Conexión establecida
+[2022-06-1522:04:05] [ INFO ] [OdontologoDaoH2:24] Guardando nuevo odontólogo Odontologo{id=null, matricula=35, nombre='Ana', apellido='Diaz'}
+[2022-06-1522:04:05] [ INFO ] [OdontologoDaoH2:31] Conexión establecida
+[2022-06-1522:04:06] [ INFO ] [OdontologoDaoH2:40] Insertando nuevo registro en la Tabla odontologos
+[2022-06-1522:04:06] [ INFO ] [OdontologoDaoH2:24] Guardando nuevo odontólogo Odontologo{id=null, matricula=452, nombre='Juan', apellido='Perez'}
+[2022-06-1522:04:06] [ INFO ] [OdontologoDaoH2:31] Conexión establecida
+[2022-06-1522:04:06] [ INFO ] [OdontologoDaoH2:40] Insertando nuevo registro en la Tabla odontologos
+[2022-06-1522:04:06] [ INFO ] [OdontologoDaoH2:24] Guardando nuevo odontólogo Odontologo{id=null, matricula=42258, nombre='Rosa', apellido='Guadalupe'}
+[2022-06-1522:04:06] [ INFO ] [OdontologoDaoH2:31] Conexión establecida
+[2022-06-1522:04:06] [ INFO ] [OdontologoDaoH2:40] Insertando nuevo registro en la Tabla odontologos
+[2022-06-1522:04:06] [ INFO ] [OdontologoDaoH2:24] Guardando nuevo odontólogo Odontologo{id=null, matricula=622, nombre='Pablo', apellido='Gonzalez'}
+[2022-06-1522:04:06] [ INFO ] [OdontologoDaoH2:31] Conexión establecida
+[2022-06-1522:04:06] [ INFO ] [OdontologoDaoH2:40] Insertando nuevo registro en la Tabla odontologos
+[2022-06-1522:04:06] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1522:04:06] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1522:04:06] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1522:04:06] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1522:04:06] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1522:04:06] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1522:04:28] [ INFO ] [OdontologoDaoH2:24] Guardando nuevo odontólogo Odontologo{id=null, matricula=35, nombre='Ana', apellido='Diaz'}
+[2022-06-1522:04:28] [ INFO ] [OdontologoDaoH2:31] Conexión establecida
+[2022-06-1522:04:29] [ INFO ] [OdontologoDaoH2:40] Insertando nuevo registro en la Tabla odontologos
+[2022-06-1522:04:29] [ INFO ] [OdontologoDaoH2:24] Guardando nuevo odontólogo Odontologo{id=null, matricula=452, nombre='Juan', apellido='Perez'}
+[2022-06-1522:04:29] [ INFO ] [OdontologoDaoH2:31] Conexión establecida
+[2022-06-1522:04:29] [ INFO ] [OdontologoDaoH2:40] Insertando nuevo registro en la Tabla odontologos
+[2022-06-1522:04:29] [ INFO ] [OdontologoDaoH2:24] Guardando nuevo odontólogo Odontologo{id=null, matricula=42258, nombre='Rosa', apellido='Guadalupe'}
+[2022-06-1522:04:29] [ INFO ] [OdontologoDaoH2:31] Conexión establecida
+[2022-06-1522:04:30] [ INFO ] [OdontologoDaoH2:40] Insertando nuevo registro en la Tabla odontologos
+[2022-06-1522:04:30] [ INFO ] [OdontologoDaoH2:24] Guardando nuevo odontólogo Odontologo{id=null, matricula=622, nombre='Pablo', apellido='Gonzalez'}
+[2022-06-1522:04:30] [ INFO ] [OdontologoDaoH2:31] Conexión establecida
+[2022-06-1522:04:30] [ INFO ] [OdontologoDaoH2:40] Insertando nuevo registro en la Tabla odontologos
+[2022-06-1522:04:30] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1522:04:30] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1522:04:30] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1522:04:30] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1522:04:30] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1522:04:30] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1522:05:06] [ INFO ] [OdontologoDaoH2:24] Guardando nuevo odontólogo Odontologo{id=null, matricula=35, nombre='Ana', apellido='Diaz'}
+[2022-06-1522:05:06] [ INFO ] [OdontologoDaoH2:31] Conexión establecida
+[2022-06-1522:05:07] [ INFO ] [OdontologoDaoH2:40] Insertando nuevo registro en la Tabla odontologos
+[2022-06-1522:05:07] [ INFO ] [OdontologoDaoH2:24] Guardando nuevo odontólogo Odontologo{id=null, matricula=452, nombre='Juan', apellido='Perez'}
+[2022-06-1522:05:07] [ INFO ] [OdontologoDaoH2:31] Conexión establecida
+[2022-06-1522:05:07] [ INFO ] [OdontologoDaoH2:40] Insertando nuevo registro en la Tabla odontologos
+[2022-06-1522:05:07] [ INFO ] [OdontologoDaoH2:24] Guardando nuevo odontólogo Odontologo{id=null, matricula=42258, nombre='Rosa', apellido='Guadalupe'}
+[2022-06-1522:05:07] [ INFO ] [OdontologoDaoH2:31] Conexión establecida
+[2022-06-1522:05:07] [ INFO ] [OdontologoDaoH2:40] Insertando nuevo registro en la Tabla odontologos
+[2022-06-1522:05:07] [ INFO ] [OdontologoDaoH2:24] Guardando nuevo odontólogo Odontologo{id=null, matricula=622, nombre='Pablo', apellido='Gonzalez'}
+[2022-06-1522:05:07] [ INFO ] [OdontologoDaoH2:31] Conexión establecida
+[2022-06-1522:05:07] [ INFO ] [OdontologoDaoH2:40] Insertando nuevo registro en la Tabla odontologos
+[2022-06-1522:05:07] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1522:05:07] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1522:05:07] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1522:05:07] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1522:05:07] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1522:05:07] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1623:47:21] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1623:47:27] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1623:48:24] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1623:48:25] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1623:48:32] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1623:48:32] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1623:49:44] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1623:49:44] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1623:49:46] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1623:49:46] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1623:54:42] [ INFO ] [OdontologoDaoH2:24] Guardando nuevo odontólogo Odontologo{id=100, matricula=111, nombre='Hola', apellido='Chau'}
+[2022-06-1623:54:42] [ INFO ] [OdontologoDaoH2:31] Conexión establecida
+[2022-06-1623:54:43] [ INFO ] [OdontologoDaoH2:40] Insertando nuevo registro en la Tabla odontologos
+[2022-06-1623:55:09] [ INFO ] [OdontologoDaoH2:24] Guardando nuevo odontólogo Odontologo{id=null, matricula=22211, nombre='Hola', apellido='Chau'}
+[2022-06-1623:55:09] [ INFO ] [OdontologoDaoH2:31] Conexión establecida
+[2022-06-1623:55:09] [ INFO ] [OdontologoDaoH2:40] Insertando nuevo registro en la Tabla odontologos
+[2022-06-1623:55:31] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1623:55:31] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1623:56:14] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1623:56:14] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1623:56:41] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1623:56:41] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1719:56:49] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1719:56:49] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1720:13:38] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1720:13:38] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1720:18:32] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1720:18:32] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1720:18:45] [ INFO ] [OdontologoDaoH2:24] Guardando nuevo odontólogo Odontologo{id=null, matricula=345, nombre='ert', apellido='ertert'}
+[2022-06-1720:18:45] [ INFO ] [OdontologoDaoH2:31] Conexión establecida
+[2022-06-1720:18:45] [ INFO ] [OdontologoDaoH2:40] Insertando nuevo registro en la Tabla odontologos
+[2022-06-1720:18:48] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1720:18:48] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1720:20:44] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1720:20:44] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1720:20:56] [ INFO ] [OdontologoDaoH2:24] Guardando nuevo odontólogo Odontologo{id=null, matricula=17, nombre='Nat', apellido='Nat'}
+[2022-06-1720:20:56] [ INFO ] [OdontologoDaoH2:31] Conexión establecida
+[2022-06-1720:20:56] [ INFO ] [OdontologoDaoH2:40] Insertando nuevo registro en la Tabla odontologos
+[2022-06-1720:21:00] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1720:21:00] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1720:22:40] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1720:22:40] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1720:24:49] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1720:24:50] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1720:34:15] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1720:34:16] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1720:34:20] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1720:34:20] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1720:39:38] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1720:39:39] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1720:51:55] [ INFO ] [OdontologoDaoH2:24] Guardando nuevo odontólogo Odontologo{id=null, matricula=546546, nombre='ghtrfh', apellido='rtyrt'}
+[2022-06-1720:51:55] [ INFO ] [OdontologoDaoH2:31] Conexión establecida
+[2022-06-1720:51:55] [ INFO ] [OdontologoDaoH2:40] Insertando nuevo registro en la Tabla odontologos
+[2022-06-1720:51:56] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1720:51:56] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1720:55:57] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1720:55:57] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1720:56:11] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1720:56:11] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1720:56:12] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1720:56:13] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1720:56:25] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1720:56:25] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1720:56:28] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1720:56:28] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:02:14] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:02:15] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:02:20] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:02:20] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:02:21] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:02:21] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:02:23] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:02:23] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:02:24] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:02:24] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:11:09] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:11:10] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:12:02] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:12:02] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:13:18] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:13:19] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:13:39] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:13:39] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:15:20] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:15:21] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:16:40] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:16:40] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:17:30] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:17:30] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:24:38] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:24:38] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:24:46] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:24:46] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:24:48] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:24:48] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:24:51] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:24:51] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:27:07] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:27:08] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:27:15] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:27:15] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:27:17] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:27:17] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:29:26] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:29:26] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:30:32] [ INFO ] [OdontologoDaoH2:24] Guardando nuevo odontólogo Odontologo{id=null, matricula=666, nombre='flor', apellido='flor'}
+[2022-06-1721:30:32] [ INFO ] [OdontologoDaoH2:31] Conexión establecida
+[2022-06-1721:30:32] [ INFO ] [OdontologoDaoH2:40] Insertando nuevo registro en la Tabla odontologos
+[2022-06-1721:30:34] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:30:34] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:35:00] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:35:01] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:35:08] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:35:08] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:35:23] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:35:23] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:35:26] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:35:26] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:35:28] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:35:28] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:35:29] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:35:29] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:35:43] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:35:43] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:36:06] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:36:06] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:36:23] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:36:23] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:36:36] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:36:36] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:36:40] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:36:40] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:38:41] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:38:41] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:38:42] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:38:42] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:38:43] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:38:43] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:38:44] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:38:44] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:43:13] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:43:14] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:43:24] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:43:24] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:43:48] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:43:48] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:43:57] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:43:57] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:44:15] [ INFO ] [OdontologoDaoH2:24] Guardando nuevo odontólogo Odontologo{id=null, matricula=45654, nombre='yashd', apellido='hsdjfsdg'}
+[2022-06-1721:44:15] [ INFO ] [OdontologoDaoH2:31] Conexión establecida
+[2022-06-1721:44:15] [ INFO ] [OdontologoDaoH2:40] Insertando nuevo registro en la Tabla odontologos
+[2022-06-1721:44:17] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:44:17] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:44:19] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:44:19] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:44:37] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:44:37] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:44:53] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:44:53] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:44:56] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:44:56] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:44:57] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:44:57] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:45:47] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:45:48] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:47:03] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:47:04] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:47:06] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:47:06] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:47:06] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:47:06] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:47:11] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:47:11] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:48:31] [ INFO ] [OdontologoDaoH2:24] Guardando nuevo odontólogo Odontologo{id=null, matricula=35, nombre='Ana', apellido='Diaz'}
+[2022-06-1721:48:31] [ INFO ] [OdontologoDaoH2:31] Conexión establecida
+[2022-06-1721:48:32] [ INFO ] [OdontologoDaoH2:40] Insertando nuevo registro en la Tabla odontologos
+[2022-06-1721:48:32] [ INFO ] [OdontologoDaoH2:24] Guardando nuevo odontólogo Odontologo{id=null, matricula=452, nombre='Juan', apellido='Perez'}
+[2022-06-1721:48:32] [ INFO ] [OdontologoDaoH2:31] Conexión establecida
+[2022-06-1721:48:32] [ INFO ] [OdontologoDaoH2:40] Insertando nuevo registro en la Tabla odontologos
+[2022-06-1721:48:32] [ INFO ] [OdontologoDaoH2:24] Guardando nuevo odontólogo Odontologo{id=null, matricula=42258, nombre='Rosa', apellido='Guadalupe'}
+[2022-06-1721:48:32] [ INFO ] [OdontologoDaoH2:31] Conexión establecida
+[2022-06-1721:48:32] [ INFO ] [OdontologoDaoH2:40] Insertando nuevo registro en la Tabla odontologos
+[2022-06-1721:48:32] [ INFO ] [OdontologoDaoH2:24] Guardando nuevo odontólogo Odontologo{id=null, matricula=622, nombre='Pablo', apellido='Gonzalez'}
+[2022-06-1721:48:32] [ INFO ] [OdontologoDaoH2:31] Conexión establecida
+[2022-06-1721:48:32] [ INFO ] [OdontologoDaoH2:40] Insertando nuevo registro en la Tabla odontologos
+[2022-06-1721:48:32] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:48:32] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:48:32] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:48:32] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:48:32] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:48:32] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:48:41] [ INFO ] [OdontologoDaoH2:24] Guardando nuevo odontólogo Odontologo{id=null, matricula=35, nombre='Ana', apellido='Diaz'}
+[2022-06-1721:48:41] [ INFO ] [OdontologoDaoH2:31] Conexión establecida
+[2022-06-1721:48:42] [ INFO ] [OdontologoDaoH2:40] Insertando nuevo registro en la Tabla odontologos
+[2022-06-1721:48:42] [ INFO ] [OdontologoDaoH2:24] Guardando nuevo odontólogo Odontologo{id=null, matricula=452, nombre='Juan', apellido='Perez'}
+[2022-06-1721:48:42] [ INFO ] [OdontologoDaoH2:31] Conexión establecida
+[2022-06-1721:48:42] [ INFO ] [OdontologoDaoH2:40] Insertando nuevo registro en la Tabla odontologos
+[2022-06-1721:48:42] [ INFO ] [OdontologoDaoH2:24] Guardando nuevo odontólogo Odontologo{id=null, matricula=42258, nombre='Rosa', apellido='Guadalupe'}
+[2022-06-1721:48:42] [ INFO ] [OdontologoDaoH2:31] Conexión establecida
+[2022-06-1721:48:42] [ INFO ] [OdontologoDaoH2:40] Insertando nuevo registro en la Tabla odontologos
+[2022-06-1721:48:42] [ INFO ] [OdontologoDaoH2:24] Guardando nuevo odontólogo Odontologo{id=null, matricula=622, nombre='Pablo', apellido='Gonzalez'}
+[2022-06-1721:48:42] [ INFO ] [OdontologoDaoH2:31] Conexión establecida
+[2022-06-1721:48:42] [ INFO ] [OdontologoDaoH2:40] Insertando nuevo registro en la Tabla odontologos
+[2022-06-1721:48:42] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:48:42] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:48:42] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:48:42] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:48:42] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:48:42] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:49:54] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:49:54] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:50:10] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:50:10] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:50:12] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:50:12] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:50:13] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:50:13] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:50:14] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:50:14] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:50:15] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:50:15] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:50:15] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:50:15] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:50:15] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:50:15] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:50:15] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:50:15] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:50:15] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:50:15] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:50:16] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:50:16] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:50:18] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:50:18] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:50:36] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:50:36] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:50:47] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:50:47] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:50:49] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:50:49] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:50:49] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:50:49] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:50:52] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:50:52] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:50:53] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:50:53] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:50:53] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:50:53] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:50:54] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:50:54] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:50:55] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:50:55] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:50:55] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:50:55] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:54:08] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:54:09] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:54:16] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:54:16] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:54:23] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:54:23] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:54:28] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:54:28] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:55:45] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:55:45] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:58:16] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:58:16] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:58:27] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:58:27] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:58:47] [ INFO ] [OdontologoDaoH2:24] Guardando nuevo odontólogo Odontologo{id=null, matricula=8678678, nombre='rtr5tyr', apellido='utyu'}
+[2022-06-1721:58:47] [ INFO ] [OdontologoDaoH2:31] Conexión establecida
+[2022-06-1721:58:47] [ INFO ] [OdontologoDaoH2:40] Insertando nuevo registro en la Tabla odontologos
+[2022-06-1721:58:49] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:58:49] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:59:02] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:59:02] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:59:07] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:59:07] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:59:12] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:59:12] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-1721:59:22] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-1721:59:22] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-2023:19:01] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-2023:19:01] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-2100:00:09] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-2100:00:10] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-2100:00:27] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-2100:00:27] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-2100:00:34] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-2100:00:34] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-2100:00:57] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-2100:00:57] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-2100:01:00] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-2100:01:00] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-2100:01:06] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-2100:01:06] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-2100:04:02] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-2100:04:03] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-2100:04:09] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-2100:04:09] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-2100:04:12] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-2100:04:12] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-2100:05:02] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-2100:05:03] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-2100:05:09] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-2100:05:09] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-2100:05:17] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-2100:05:17] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-2100:05:24] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-2100:05:24] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-2100:05:28] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-2100:05:28] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-2100:05:39] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-2100:05:39] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-2100:05:56] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-2100:05:56] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-2100:06:01] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-2100:06:01] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-2100:06:08] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-2100:06:08] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-2100:06:16] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-2100:06:16] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-2100:06:22] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-2100:06:22] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-2100:06:26] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-2100:06:26] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-2100:07:47] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-2100:07:47] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-2100:10:34] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-2100:10:34] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-06-2100:12:06] [ INFO ] [OdontologoDaoH2:116] Conexión establecida
+[2022-06-2100:12:06] [ INFO ] [OdontologoDaoH2:120] Realizando busqueda
+[2022-07-0500:09:53] [ ERROR] [OdontologoService:19] No existe el odontólogo con id: 402
+[2022-07-0500:24:29] [ ERROR] [OdontologoService:19] No existe un turno con el ID: 1
+[2022-07-0500:24:47] [ ERROR] [OdontologoService:19] No existe un turno con el ID: 1
+[2022-07-0601:14:45] [ ERROR] [OdontologoService:19] No existe el odontólogo con id: 1
+[2022-07-0601:15:03] [ ERROR] [OdontologoService:19] No existe el odontólogo con id: 11
+[2022-07-0601:29:09] [ ERROR] [OdontologoService:19] No existe el odontólogo con id: 1
+[2022-07-0621:26:44] [ ERROR] [GlobalExceptions:19] No existe el odontólogo con id: 402
+[2022-07-0621:28:55] [ ERROR] [GlobalExceptions:19] No existe un turno con el ID: 1
+[2022-07-0621:29:09] [ ERROR] [GlobalExceptions:19] No existe un turno con el ID: 1
+[2022-07-0622:03:29] [ ERROR] [OdontologoService:49] Odontologo eliminado
+[2022-07-0622:51:08] [ ERROR] [GlobalExceptions:17] No existe el odontólogo con id: 1
+[2022-07-0622:51:13] [ ERROR] [GlobalExceptions:17] No existe el odontólogo con id: 2
+[2022-07-0623:07:00] [ ERROR] [GlobalExceptions:17] No existe el odontólogo con id: 1
+[2022-07-0623:07:39] [ INFO ] [OdontologoService:49] Odontologo eliminado
+[2022-07-0720:36:12] [ ERROR] [GlobalExceptions:17] No existe el paciente con id: 1
+[2022-07-0818:32:34] [ INFO ] [OdontologoService:49] Odontologo eliminado
+[2022-07-0818:50:16] [ ERROR] [GlobalExceptions:17] No existe el odontólogo con id: 1105
+[2022-07-0818:50:35] [ ERROR] [GlobalExceptions:17] No existe el odontólogo con id: 1252
+[2022-07-0820:59:08] [ INFO ] [OdontologoService:46] Odontologo eliminado
+[2022-07-0821:16:46] [ INFO ] [OdontologoService:46] Odontologo eliminado

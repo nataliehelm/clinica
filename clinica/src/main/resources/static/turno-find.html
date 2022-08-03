@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Clinica Odontologica - Turno</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/js/find_turno.js"></script>
+</head>
+<body>
+<div class="container">
+    <nav class="navbar fixed-top navbar-expand-lg navbar-light ">
+        <a class="logo" href="/index.html">
+            <img src="/img/logoDH.png" class="d-inline-block align-middle" alt="DH logo"> DH Clinica Dental
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse justify-content-end navbar-collapse" id="navbarNavAltMarkup">
+            <div class="navbar-nav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/index.html">Inicio <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/odontologos.html">Odontologos</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/pacientes.html">Pacientes</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/turnos.html">Turnos</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</div>
+<div class="container center">
+    <h3>Ingrese ID a buscar</h3>
+    <form id="turno_find">
+        <div class="form-group">
+            <input type="text" class="form-control" id="id" placeholder="Id" name="id" required>
+        </div>
+        <button type="submit" class="btn btn-info"
+                id="btn-find-turno">Buscar</button>
+        <div id="response" style="display:none; margin-top:10px; margin-bottom:20px">
+        </div>
+    </form>
+    <div class="container">
+        <div id="div_turno_table" style="display:none; margin-top: 20px">
+            <div class="row col-md-12 table-responsive">
+                <table id="turnoTable" class="table table-striped">
+                    <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Fecha del turno</th>
+                        <th>Paciente Nombre</th>
+                        <th>Paciente Apellido</th>
+                        <th>DNI</th>
+                        <th>Odontologo Nombre</th>
+                        <th>Odontologo Apellido</th>
+                        <th>Mátricula</th>
+                    </tr>
+                    </thead>
+                    <tbody id="turnoTableBody">
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
